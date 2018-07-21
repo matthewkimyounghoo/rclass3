@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1532158916547.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "B5F4EE9A",
+    "lastKnownWriteTime" : 1532153501,
+    "last_content_update" : 1532153501,
+    "path" : "C:/R/180721/CSVdemo.R",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "67,31",
+        "scrollLine" : "55"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
